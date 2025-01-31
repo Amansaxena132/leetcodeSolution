@@ -5,6 +5,7 @@ for leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
@@ -24,6 +25,7 @@ for leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
