@@ -8,6 +8,7 @@ for leetcode
 | [0001-two-sum](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ for leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -47,4 +49,16 @@ for leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
