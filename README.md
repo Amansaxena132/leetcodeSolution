@@ -35,4 +35,16 @@ for leetcode
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
