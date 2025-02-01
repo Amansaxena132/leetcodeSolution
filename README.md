@@ -23,6 +23,7 @@ for leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0389-find-the-difference) |
 ## Database
 |  |
 | ------- |
@@ -35,6 +36,7 @@ for leetcode
 | [0217-contains-duplicate](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -75,6 +77,7 @@ for leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,4 +90,8 @@ for leetcode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
