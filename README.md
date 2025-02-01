@@ -10,6 +10,7 @@ for leetcode
 | [0088-merge-sorted-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ for leetcode
 | [0217-contains-duplicate](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0414-third-maximum-number) |
 ## Database
 |  |
 | ------- |
