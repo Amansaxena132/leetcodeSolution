@@ -28,6 +28,7 @@ for leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -61,4 +62,12 @@ for leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
