@@ -31,6 +31,7 @@ for leetcode
 | [0001-two-sum](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -70,8 +71,17 @@ for leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
