@@ -8,6 +8,7 @@ for leetcode
 | [0001-two-sum](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0414-third-maximum-number) |
@@ -17,6 +18,7 @@ for leetcode
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,8 @@ for leetcode
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
