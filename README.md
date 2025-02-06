@@ -41,6 +41,7 @@ for leetcode
 | [0205-isomorphic-strings](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0496-next-greater-element-i) |
@@ -84,6 +85,7 @@ for leetcode
 | [0014-longest-common-prefix](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0389-find-the-difference) |
 ## Sliding Window
