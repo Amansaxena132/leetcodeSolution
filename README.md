@@ -7,6 +7,7 @@ for leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -62,6 +63,7 @@ for leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Amansaxena132/leetcodeSolution/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
